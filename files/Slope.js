@@ -13505,7 +13505,7 @@ function _P2(_d8, _e8) {
             _d8._6i = _d8._6i.slice(0);
             _d8._6i._p = 558047624
         }
-        // _d8._6i[0] = "More#Games";
+        _d8._6i[0] = "More#Games";
         if (!(_d8._7i instanceof Array)) {
             _d8._7i = [];
             _d8._7i._p = 379514631
@@ -13514,6 +13514,7 @@ function _P2(_d8, _e8) {
             _d8._7i._p = 379514631
         }
         // _d8._7i[0] = "Best#Players";
+        _d8._7i[0] = "";
         if (!(_d8._8i instanceof Array)) {
             _d8._8i = [];
             _d8._8i._p = 2843521004
