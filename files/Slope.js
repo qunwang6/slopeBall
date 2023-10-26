@@ -13501,11 +13501,10 @@ function _P2(_d8, _e8) {
         if (!(_d8._6i instanceof Array)) {
             _d8._6i = [];
             _d8._6i._p = 558047624
+        } else if (_d8._6i._p !== 558047624) {
+            _d8._6i = _d8._6i.slice(0);
+            _d8._6i._p = 558047624
         }
-        // } else if (_d8._6i._p !== 558047624) {
-        //     _d8._6i = _d8._6i.slice(0);
-        //     _d8._6i._p = 558047624
-        // }
         // _d8._6i[0] = "More#Games";
         if (!(_d8._7i instanceof Array)) {
             _d8._7i = [];
